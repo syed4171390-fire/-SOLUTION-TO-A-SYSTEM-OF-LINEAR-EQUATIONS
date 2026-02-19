@@ -22,7 +22,8 @@ Register number : 212225220114
 A=numpy.array([[5,-3,-10], [2,2,-3], [-3,-1,5]])
 B=numpy.array([-9,4,-1])
 result=numpy.linalg.solve(A,B)
-print(result)```
+print(result)
+```
 
 ## Output:
 <img width="1003" height="752" alt="image" src="https://github.com/user-attachments/assets/1a073e79-77a4-4748-9e20-b5ae7460b2b9" />
