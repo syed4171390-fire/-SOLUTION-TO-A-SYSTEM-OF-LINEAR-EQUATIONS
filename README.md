@@ -18,16 +18,18 @@ Developed by : Syed Shamsheer Ali
 
 Register number : 212225220114
 ## Program:
-```import numpy
-A=numpy.array([[5,-3,-10], [2,2,-3], [-3,-1,5]])
-B=numpy.array([-9,4,-1])
-result=numpy.linalg.solve(A,B)
-print(result)
+```
+import numpy as np
+A=np.array([[1,-3],[3,1]])
+B=np.array([0,10])
+x=np.linalg.solve(A,B)
+print(x))
 ```
 
 ## Output:
-<img width="1003" height="752" alt="image" src="https://github.com/user-attachments/assets/1a073e79-77a4-4748-9e20-b5ae7460b2b9" />
 
+
+<img width="1912" height="902" alt="Maths for AI exp 1" src="https://github.com/user-attachments/assets/04b3dfc3-d7fd-4223-9918-1b7b2a0fa612" />
 
 
 
